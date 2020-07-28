@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/dist/hash/main.f9328f2c76b0f24e90e5.css",
-    "main.js": "/dist/hash/main.35c71055a4793db885b8.js",
+    "main.css": "/dist/hash/main.53ce060416d691e5fe3f.css",
+    "main.js": "/dist/hash/main.de836d591576f25b2aea.js",
     "fontawesome.css": "/dist/hash/fontawesome.84d8ad2b4fcdc0f0c58247e778133b3a/css/all.min.css"
   },
   "entrypoints": [
-    "hash/main.f9328f2c76b0f24e90e5.css",
-    "hash/main.35c71055a4793db885b8.js"
+    "hash/main.53ce060416d691e5fe3f.css",
+    "hash/main.de836d591576f25b2aea.js"
   ]
 }
