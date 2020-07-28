@@ -1,0 +1,15 @@
+{{- define "main" -}}
+<main>
+  <article class="markdown-body">
+    {{ .Content }}
+    {{- range ((where .Site.RegularPages ".Params.hiddeninarchives" "!=" "false").GroupByDate "2006") }}
+      <h3>{{ .Key }}</h3>
+      <ul>
+        {{- range .Pages }}
+          <li>{{ .Date.Format "2006-01-02" }} -> <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{- end }}
+      </ul>
+    {{- end }}
+  </article>
+</main>
+{{- end -}}

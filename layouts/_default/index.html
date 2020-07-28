@@ -1,0 +1,27 @@
+{{- define "header" -}}
+<header class="app__home-header elevation-z4">
+  <h1 class="app__home-title">{{ .Site.Title }}</h1>
+  {{- with .Site.Params.links }}
+  <div style="margin-top: 16px;">
+    {{- range . }}
+    <a target="_blank" class="app__home-link" href="{{ .href }}"><i class="fab fa-{{ .icon }}"></i></a>
+    {{- end }}
+  </div>
+  {{- end }}
+  {{- with .Site.Params.navlinks }}
+  <nav style="margin-top: 32px;">
+    {{- range . }}
+    <a class="app__home-category-item" href="{{ absURL (index . "url") }}">{{ index . "title" }}</a>
+    {{- end }}
+  </nav>
+  {{- end }}
+</header>
+{{- end -}}
+
+{{- define "main" -}}
+<main role="main" class="container">
+  <article class="markdown-body">
+    {{ .Content }}
+  </article>
+</main>
+{{- end -}}

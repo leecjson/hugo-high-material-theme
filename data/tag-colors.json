@@ -1,0 +1,1066 @@
+{
+  "1C ENTERPRISE": {
+    "color": "#814CCC",
+    "tone": "dark"
+  },
+  "ABAP": {
+    "color": "#E8274B",
+    "tone": "light"
+  },
+  "ACTIONSCRIPT": {
+    "color": "#882B0F",
+    "tone": "dark"
+  },
+  "ADA": {
+    "color": "#02f88c",
+    "tone": "light"
+  },
+  "AGDA": {
+    "color": "#315665",
+    "tone": "dark"
+  },
+  "AGS SCRIPT": {
+    "color": "#B9D9FF",
+    "tone": "light"
+  },
+  "ALLOY": {
+    "color": "#64C800",
+    "tone": "light"
+  },
+  "AMPL": {
+    "color": "#E6EFBB",
+    "tone": "light"
+  },
+  "ANGELSCRIPT": {
+    "color": "#C7D7DC",
+    "tone": "light"
+  },
+  "ANTLR": {
+    "color": "#9DC3FF",
+    "tone": "light"
+  },
+  "API BLUEPRINT": {
+    "color": "#2ACCA8",
+    "tone": "light"
+  },
+  "APL": {
+    "color": "#5A8164",
+    "tone": "light"
+  },
+  "APPLESCRIPT": {
+    "color": "#101F1F",
+    "tone": "dark"
+  },
+  "ARC": {
+    "color": "#aa2afe",
+    "tone": "dark"
+  },
+  "ASP": {
+    "color": "#6a40fd",
+    "tone": "dark"
+  },
+  "ASPECTJ": {
+    "color": "#a957b0",
+    "tone": "light"
+  },
+  "ASSEMBLY": {
+    "color": "#6E4C13",
+    "tone": "dark"
+  },
+  "ASYMPTOTE": {
+    "color": "#4a0c0c",
+    "tone": "dark"
+  },
+  "ATS": {
+    "color": "#1ac620",
+    "tone": "light"
+  },
+  "AUTOHOTKEY": {
+    "color": "#6594b9",
+    "tone": "light"
+  },
+  "AUTOIT": {
+    "color": "#1C3552",
+    "tone": "dark"
+  },
+  "BALLERINA": {
+    "color": "#FF5000",
+    "tone": "light"
+  },
+  "BATCHFILE": {
+    "color": "#C1F12E",
+    "tone": "light"
+  },
+  "BLITZMAX": {
+    "color": "#cd6400",
+    "tone": "light"
+  },
+  "BOO": {
+    "color": "#d4bec1",
+    "tone": "light"
+  },
+  "BRAINFUCK": {
+    "color": "#2F2530",
+    "tone": "dark"
+  },
+  "C": {
+    "color": "#555555",
+    "tone": "dark"
+  },
+  "C#": {
+    "color": "#178600",
+    "tone": "dark"
+  },
+  "C++": {
+    "color": "#f34b7d",
+    "tone": "light"
+  },
+  "CEYLON": {
+    "color": "#dfa535",
+    "tone": "light"
+  },
+  "CHAPEL": {
+    "color": "#8dc63f",
+    "tone": "light"
+  },
+  "CIRRU": {
+    "color": "#ccccff",
+    "tone": "light"
+  },
+  "CLARION": {
+    "color": "#db901e",
+    "tone": "light"
+  },
+  "CLEAN": {
+    "color": "#3F85AF",
+    "tone": "light"
+  },
+  "CLICK": {
+    "color": "#E4E6F3",
+    "tone": "light"
+  },
+  "CLOJURE": {
+    "color": "#db5855",
+    "tone": "light"
+  },
+  "COFFEESCRIPT": {
+    "color": "#244776",
+    "tone": "dark"
+  },
+  "COLDFUSION": {
+    "color": "#ed2cd6",
+    "tone": "light"
+  },
+  "COMMON LISP": {
+    "color": "#3fb68b",
+    "tone": "light"
+  },
+  "COMMON WORKFLOW LANGUAGE": {
+    "color": "#B5314C",
+    "tone": "dark"
+  },
+  "COMPONENT PASCAL": {
+    "color": "#B0CE4E",
+    "tone": "light"
+  },
+  "CRYSTAL": {
+    "color": "#000100",
+    "tone": "dark"
+  },
+  "CSS": {
+    "color": "#563d7c",
+    "tone": "dark"
+  },
+  "CUDA": {
+    "color": "#3A4E3A",
+    "tone": "dark"
+  },
+  "D": {
+    "color": "#ba595e",
+    "tone": "light"
+  },
+  "DAFNY": {
+    "color": "#FFEC25",
+    "tone": "light"
+  },
+  "DART": {
+    "color": "#00B4AB",
+    "tone": "light"
+  },
+  "DATAWEAVE": {
+    "color": "#003a52",
+    "tone": "dark"
+  },
+  "DHALL": {
+    "color": "#dfafff",
+    "tone": "light"
+  },
+  "DM": {
+    "color": "#447265",
+    "tone": "dark"
+  },
+  "DOCKERFILE": {
+    "color": "#384d54",
+    "tone": "dark"
+  },
+  "DOGESCRIPT": {
+    "color": "#cca760",
+    "tone": "light"
+  },
+  "DYLAN": {
+    "color": "#6c616e",
+    "tone": "dark"
+  },
+  "E": {
+    "color": "#ccce35",
+    "tone": "light"
+  },
+  "EC": {
+    "color": "#913960",
+    "tone": "dark"
+  },
+  "ECL": {
+    "color": "#8a1267",
+    "tone": "dark"
+  },
+  "EIFFEL": {
+    "color": "#946d57",
+    "tone": "light"
+  },
+  "ELIXIR": {
+    "color": "#6e4a7e",
+    "tone": "dark"
+  },
+  "ELM": {
+    "color": "#60B5CC",
+    "tone": "light"
+  },
+  "EMACS LISP": {
+    "color": "#c065db",
+    "tone": "light"
+  },
+  "EMBERSCRIPT": {
+    "color": "#FFF4F3",
+    "tone": "light"
+  },
+  "EQ": {
+    "color": "#a78649",
+    "tone": "light"
+  },
+  "ERLANG": {
+    "color": "#B83998",
+    "tone": "dark"
+  },
+  "F#": {
+    "color": "#b845fc",
+    "tone": "light"
+  },
+  "F*": {
+    "color": "#572e30",
+    "tone": "dark"
+  },
+  "FACTOR": {
+    "color": "#636746",
+    "tone": "dark"
+  },
+  "FANCY": {
+    "color": "#7b9db4",
+    "tone": "light"
+  },
+  "FANTOM": {
+    "color": "#14253c",
+    "tone": "dark"
+  },
+  "FAUST": {
+    "color": "#c37240",
+    "tone": "light"
+  },
+  "FLUX": {
+    "color": "#88ccff",
+    "tone": "light"
+  },
+  "FORTH": {
+    "color": "#341708",
+    "tone": "dark"
+  },
+  "FORTRAN": {
+    "color": "#4d41b1",
+    "tone": "dark"
+  },
+  "FREEMARKER": {
+    "color": "#0050b2",
+    "tone": "dark"
+  },
+  "FREGE": {
+    "color": "#00cafe",
+    "tone": "light"
+  },
+  "FUTHARK": {
+    "color": "#5f021f",
+    "tone": "dark"
+  },
+  "G-CODE": {
+    "color": "#D08CF2",
+    "tone": "light"
+  },
+  "GAME MAKER LANGUAGE": {
+    "color": "#71b417",
+    "tone": "light"
+  },
+  "GAML": {
+    "color": "#FFC766",
+    "tone": "light"
+  },
+  "GDSCRIPT": {
+    "color": "#355570",
+    "tone": "dark"
+  },
+  "GENIE": {
+    "color": "#fb855d",
+    "tone": "light"
+  },
+  "GHERKIN": {
+    "color": "#5B2063",
+    "tone": "dark"
+  },
+  "GLYPH": {
+    "color": "#c1ac7f",
+    "tone": "light"
+  },
+  "GNUPLOT": {
+    "color": "#f0a9f0",
+    "tone": "light"
+  },
+  "GO": {
+    "color": "#00ADD8",
+    "tone": "light"
+  },
+  "GOLO": {
+    "color": "#88562A",
+    "tone": "dark"
+  },
+  "GOSU": {
+    "color": "#82937f",
+    "tone": "light"
+  },
+  "GRAMMATICAL FRAMEWORK": {
+    "color": "#79aa7a",
+    "tone": "light"
+  },
+  "GROOVY": {
+    "color": "#e69f56",
+    "tone": "light"
+  },
+  "HACK": {
+    "color": "#878787",
+    "tone": "light"
+  },
+  "HARBOUR": {
+    "color": "#0e60e3",
+    "tone": "dark"
+  },
+  "HASKELL": {
+    "color": "#5e5086",
+    "tone": "dark"
+  },
+  "HAXE": {
+    "color": "#df7900",
+    "tone": "light"
+  },
+  "HIVEQL": {
+    "color": "#dce200",
+    "tone": "light"
+  },
+  "HOLYC": {
+    "color": "#ffefaf",
+    "tone": "light"
+  },
+  "HTML": {
+    "color": "#e34c26",
+    "tone": "light"
+  },
+  "HY": {
+    "color": "#7790B2",
+    "tone": "light"
+  },
+  "IDL": {
+    "color": "#a3522f",
+    "tone": "dark"
+  },
+  "IDRIS": {
+    "color": "#b30000",
+    "tone": "dark"
+  },
+  "IGOR PRO": {
+    "color": "#0000cc",
+    "tone": "dark"
+  },
+  "IO": {
+    "color": "#a9188d",
+    "tone": "dark"
+  },
+  "IOKE": {
+    "color": "#078193",
+    "tone": "dark"
+  },
+  "ISABELLE": {
+    "color": "#FEFE00",
+    "tone": "light"
+  },
+  "J": {
+    "color": "#9EEDFF",
+    "tone": "light"
+  },
+  "JAVA": {
+    "color": "#b07219",
+    "tone": "light"
+  },
+  "JAVASCRIPT": {
+    "color": "#f1e05a",
+    "tone": "light"
+  },
+  "JOLIE": {
+    "color": "#843179",
+    "tone": "dark"
+  },
+  "JSONIQ": {
+    "color": "#40d47e",
+    "tone": "light"
+  },
+  "JSONNET": {
+    "color": "#0064bd",
+    "tone": "dark"
+  },
+  "JULIA": {
+    "color": "#a270ba",
+    "tone": "light"
+  },
+  "JUPYTER NOTEBOOK": {
+    "color": "#DA5B0B",
+    "tone": "light"
+  },
+  "KOTLIN": {
+    "color": "#F18E33",
+    "tone": "light"
+  },
+  "KRL": {
+    "color": "#28430A",
+    "tone": "dark"
+  },
+  "LASSO": {
+    "color": "#999999",
+    "tone": "light"
+  },
+  "LEX": {
+    "color": "#DBCA00",
+    "tone": "light"
+  },
+  "LFE": {
+    "color": "#4C3023",
+    "tone": "dark"
+  },
+  "LIVESCRIPT": {
+    "color": "#499886",
+    "tone": "light"
+  },
+  "LLVM": {
+    "color": "#185619",
+    "tone": "dark"
+  },
+  "LOLCODE": {
+    "color": "#cc9900",
+    "tone": "light"
+  },
+  "LOOKML": {
+    "color": "#652B81",
+    "tone": "dark"
+  },
+  "LSL": {
+    "color": "#3d9970",
+    "tone": "light"
+  },
+  "LUA": {
+    "color": "#000080",
+    "tone": "dark"
+  },
+  "MACAULAY2": {
+    "color": "#d8ffff",
+    "tone": "light"
+  },
+  "MAKEFILE": {
+    "color": "#427819",
+    "tone": "dark"
+  },
+  "MASK": {
+    "color": "#f97732",
+    "tone": "light"
+  },
+  "MATLAB": {
+    "color": "#e16737",
+    "tone": "light"
+  },
+  "MAX": {
+    "color": "#c4a79c",
+    "tone": "light"
+  },
+  "MAXSCRIPT": {
+    "color": "#00a6a6",
+    "tone": "light"
+  },
+  "MCFUNCTION": {
+    "color": "#E22837",
+    "tone": "light"
+  },
+  "MERCURY": {
+    "color": "#ff2b2b",
+    "tone": "light"
+  },
+  "MESON": {
+    "color": "#007800",
+    "tone": "dark"
+  },
+  "METAL": {
+    "color": "#8f14e9",
+    "tone": "dark"
+  },
+  "MIRAH": {
+    "color": "#c7a938",
+    "tone": "light"
+  },
+  "MIRC SCRIPT": {
+    "color": "#926059",
+    "tone": "dark"
+  },
+  "MLIR": {
+    "color": "#5EC8DB",
+    "tone": "light"
+  },
+  "MODULA-3": {
+    "color": "#223388",
+    "tone": "dark"
+  },
+  "MQL4": {
+    "color": "#62A8D6",
+    "tone": "light"
+  },
+  "MQL5": {
+    "color": "#4A76B8",
+    "tone": "dark"
+  },
+  "MTML": {
+    "color": "#b7e1f4",
+    "tone": "light"
+  },
+  "NCL": {
+    "color": "#28431f",
+    "tone": "dark"
+  },
+  "NEARLEY": {
+    "color": "#990000",
+    "tone": "dark"
+  },
+  "NEMERLE": {
+    "color": "#3d3c6e",
+    "tone": "dark"
+  },
+  "NESC": {
+    "color": "#94B0C7",
+    "tone": "light"
+  },
+  "NETLINX": {
+    "color": "#0aa0ff",
+    "tone": "light"
+  },
+  "NETLINX+ERB": {
+    "color": "#747faa",
+    "tone": "light"
+  },
+  "NETLOGO": {
+    "color": "#ff6375",
+    "tone": "light"
+  },
+  "NEWLISP": {
+    "color": "#87AED7",
+    "tone": "light"
+  },
+  "NEXTFLOW": {
+    "color": "#3ac486",
+    "tone": "light"
+  },
+  "NIM": {
+    "color": "#ffc200",
+    "tone": "light"
+  },
+  "NIT": {
+    "color": "#009917",
+    "tone": "light"
+  },
+  "NIX": {
+    "color": "#7e7eff",
+    "tone": "light"
+  },
+  "NU": {
+    "color": "#c9df40",
+    "tone": "light"
+  },
+  "OBJECTIVE-C": {
+    "color": "#438eff",
+    "tone": "light"
+  },
+  "OBJECTIVE-C++": {
+    "color": "#6866fb",
+    "tone": "light"
+  },
+  "OBJECTIVE-J": {
+    "color": "#ff0c5a",
+    "tone": "light"
+  },
+  "OBJECTSCRIPT": {
+    "color": "#424893",
+    "tone": "dark"
+  },
+  "OCAML": {
+    "color": "#3be133",
+    "tone": "light"
+  },
+  "ODIN": {
+    "color": "#60AFFE",
+    "tone": "light"
+  },
+  "OMGROFL": {
+    "color": "#cabbff",
+    "tone": "light"
+  },
+  "OOC": {
+    "color": "#b0b77e",
+    "tone": "light"
+  },
+  "OPAL": {
+    "color": "#f7ede0",
+    "tone": "light"
+  },
+  "OPENQASM": {
+    "color": "#AA70FF",
+    "tone": "light"
+  },
+  "OXYGENE": {
+    "color": "#cdd0e3",
+    "tone": "light"
+  },
+  "OZ": {
+    "color": "#fab738",
+    "tone": "light"
+  },
+  "P4": {
+    "color": "#7055b5",
+    "tone": "dark"
+  },
+  "PAN": {
+    "color": "#cc0000",
+    "tone": "dark"
+  },
+  "PAPYRUS": {
+    "color": "#6600cc",
+    "tone": "dark"
+  },
+  "PARROT": {
+    "color": "#f3ca0a",
+    "tone": "light"
+  },
+  "PASCAL": {
+    "color": "#E3F171",
+    "tone": "light"
+  },
+  "PAWN": {
+    "color": "#dbb284",
+    "tone": "light"
+  },
+  "PEP8": {
+    "color": "#C76F5B",
+    "tone": "light"
+  },
+  "PERL": {
+    "color": "#0298c3",
+    "tone": "light"
+  },
+  "PHP": {
+    "color": "#4F5D95",
+    "tone": "dark"
+  },
+  "PIGLATIN": {
+    "color": "#fcd7de",
+    "tone": "light"
+  },
+  "PIKE": {
+    "color": "#005390",
+    "tone": "dark"
+  },
+  "PLSQL": {
+    "color": "#dad8d8",
+    "tone": "light"
+  },
+  "POGOSCRIPT": {
+    "color": "#d80074",
+    "tone": "dark"
+  },
+  "POSTSCRIPT": {
+    "color": "#da291c",
+    "tone": "dark"
+  },
+  "POWERBUILDER": {
+    "color": "#8f0f8d",
+    "tone": "dark"
+  },
+  "POWERSHELL": {
+    "color": "#012456",
+    "tone": "dark"
+  },
+  "PROCESSING": {
+    "color": "#0096D8",
+    "tone": "light"
+  },
+  "PROLOG": {
+    "color": "#74283c",
+    "tone": "dark"
+  },
+  "PROPELLER SPIN": {
+    "color": "#7fa2a7",
+    "tone": "light"
+  },
+  "PUPPET": {
+    "color": "#302B6D",
+    "tone": "dark"
+  },
+  "PUREBASIC": {
+    "color": "#5a6986",
+    "tone": "dark"
+  },
+  "PURESCRIPT": {
+    "color": "#1D222D",
+    "tone": "dark"
+  },
+  "PYTHON": {
+    "color": "#3572A5",
+    "tone": "dark"
+  },
+  "Q": {
+    "color": "#0040cd",
+    "tone": "dark"
+  },
+  "Q#": {
+    "color": "#fed659",
+    "tone": "light"
+  },
+  "QML": {
+    "color": "#44a51c",
+    "tone": "light"
+  },
+  "QT SCRIPT": {
+    "color": "#00b841",
+    "tone": "light"
+  },
+  "QUAKE": {
+    "color": "#882233",
+    "tone": "dark"
+  },
+  "R": {
+    "color": "#198CE7",
+    "tone": "light"
+  },
+  "RACKET": {
+    "color": "#3c5caa",
+    "tone": "dark"
+  },
+  "RAGEL": {
+    "color": "#9d5200",
+    "tone": "dark"
+  },
+  "RAKU": {
+    "color": "#0000fb",
+    "tone": "dark"
+  },
+  "RAML": {
+    "color": "#77d9fb",
+    "tone": "light"
+  },
+  "RASCAL": {
+    "color": "#fffaa0",
+    "tone": "light"
+  },
+  "REASON": {
+    "color": "#ff5847",
+    "tone": "light"
+  },
+  "REBOL": {
+    "color": "#358a5b",
+    "tone": "light"
+  },
+  "RED": {
+    "color": "#f50000",
+    "tone": "light"
+  },
+  "REN'PY": {
+    "color": "#ff7f7f",
+    "tone": "light"
+  },
+  "RING": {
+    "color": "#2D54CB",
+    "tone": "dark"
+  },
+  "RIOT": {
+    "color": "#A71E49",
+    "tone": "dark"
+  },
+  "ROFF": {
+    "color": "#ecdebe",
+    "tone": "light"
+  },
+  "ROUGE": {
+    "color": "#cc0088",
+    "tone": "dark"
+  },
+  "RUBY": {
+    "color": "#701516",
+    "tone": "dark"
+  },
+  "RUNOFF": {
+    "color": "#665a4e",
+    "tone": "dark"
+  },
+  "RUST": {
+    "color": "#dea584",
+    "tone": "light"
+  },
+  "SALTSTACK": {
+    "color": "#646464",
+    "tone": "dark"
+  },
+  "SAS": {
+    "color": "#B34936",
+    "tone": "dark"
+  },
+  "SCALA": {
+    "color": "#c22d40",
+    "tone": "dark"
+  },
+  "SCHEME": {
+    "color": "#1e4aec",
+    "tone": "dark"
+  },
+  "SED": {
+    "color": "#64b970",
+    "tone": "light"
+  },
+  "SELF": {
+    "color": "#0579aa",
+    "tone": "dark"
+  },
+  "SHELL": {
+    "color": "#89e051",
+    "tone": "light"
+  },
+  "SHEN": {
+    "color": "#120F14",
+    "tone": "dark"
+  },
+  "SLASH": {
+    "color": "#007eff",
+    "tone": "light"
+  },
+  "SLICE": {
+    "color": "#003fa2",
+    "tone": "dark"
+  },
+  "SMALLTALK": {
+    "color": "#596706",
+    "tone": "dark"
+  },
+  "SMPL": {
+    "color": "#c94949",
+    "tone": "dark"
+  },
+  "SOLIDITY": {
+    "color": "#AA6746",
+    "tone": "light"
+  },
+  "SOURCEPAWN": {
+    "color": "#5c7611",
+    "tone": "dark"
+  },
+  "SQF": {
+    "color": "#3F3F3F",
+    "tone": "dark"
+  },
+  "SQUIRREL": {
+    "color": "#800000",
+    "tone": "dark"
+  },
+  "SRECODE TEMPLATE": {
+    "color": "#348a34",
+    "tone": "light"
+  },
+  "STAN": {
+    "color": "#b2011d",
+    "tone": "dark"
+  },
+  "STANDARD ML": {
+    "color": "#dc566d",
+    "tone": "light"
+  },
+  "STARLARK": {
+    "color": "#76d275",
+    "tone": "light"
+  },
+  "SUPERCOLLIDER": {
+    "color": "#46390b",
+    "tone": "dark"
+  },
+  "SWIFT": {
+    "color": "#ffac45",
+    "tone": "light"
+  },
+  "SYSTEMVERILOG": {
+    "color": "#DAE1C2",
+    "tone": "light"
+  },
+  "TCL": {
+    "color": "#e4cc98",
+    "tone": "light"
+  },
+  "TERRA": {
+    "color": "#00004c",
+    "tone": "dark"
+  },
+  "TEX": {
+    "color": "#3D6117",
+    "tone": "dark"
+  },
+  "TI PROGRAM": {
+    "color": "#A0AA87",
+    "tone": "light"
+  },
+  "TURING": {
+    "color": "#cf142b",
+    "tone": "dark"
+  },
+  "TYPESCRIPT": {
+    "color": "#2b7489",
+    "tone": "dark"
+  },
+  "UNREALSCRIPT": {
+    "color": "#a54c4d",
+    "tone": "dark"
+  },
+  "V": {
+    "color": "#5d87bd",
+    "tone": "light"
+  },
+  "VALA": {
+    "color": "#fbe5cd",
+    "tone": "light"
+  },
+  "VBA": {
+    "color": "#867db1",
+    "tone": "light"
+  },
+  "VBSCRIPT": {
+    "color": "#15dcdc",
+    "tone": "light"
+  },
+  "VCL": {
+    "color": "#148AA8",
+    "tone": "light"
+  },
+  "VERILOG": {
+    "color": "#b2b7f8",
+    "tone": "light"
+  },
+  "VHDL": {
+    "color": "#adb2cb",
+    "tone": "light"
+  },
+  "VIM SCRIPT": {
+    "color": "#199f4b",
+    "tone": "light"
+  },
+  "VISUAL BASIC .NET": {
+    "color": "#945db7",
+    "tone": "dark"
+  },
+  "VOLT": {
+    "color": "#1F1F1F",
+    "tone": "dark"
+  },
+  "VUE": {
+    "color": "#2c3e50",
+    "tone": "dark"
+  },
+  "WDL": {
+    "color": "#42f1f4",
+    "tone": "light"
+  },
+  "WEBASSEMBLY": {
+    "color": "#04133b",
+    "tone": "dark"
+  },
+  "WISP": {
+    "color": "#7582D1",
+    "tone": "light"
+  },
+  "WOLLOK": {
+    "color": "#a23738",
+    "tone": "dark"
+  },
+  "X10": {
+    "color": "#4B6BEF",
+    "tone": "light"
+  },
+  "XBASE": {
+    "color": "#403a40",
+    "tone": "dark"
+  },
+  "XC": {
+    "color": "#99DA07",
+    "tone": "light"
+  },
+  "XQUERY": {
+    "color": "#5232e7",
+    "tone": "dark"
+  },
+  "XSLT": {
+    "color": "#EB8CEB",
+    "tone": "light"
+  },
+  "YACC": {
+    "color": "#4B6C4B",
+    "tone": "dark"
+  },
+  "YARA": {
+    "color": "#220000",
+    "tone": "dark"
+  },
+  "YASNIPPET": {
+    "color": "#32AB90",
+    "tone": "light"
+  },
+  "ZAP": {
+    "color": "#0d665e",
+    "tone": "dark"
+  },
+  "ZENSCRIPT": {
+    "color": "#00BCD1",
+    "tone": "light"
+  },
+  "ZEPHIR": {
+    "color": "#118f9e",
+    "tone": "light"
+  },
+  "ZIG": {
+    "color": "#ec915c",
+    "tone": "light"
+  },
+  "ZIL": {
+    "color": "#dc75e5",
+    "tone": "light"
+  }
+}

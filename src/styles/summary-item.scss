@@ -1,0 +1,32 @@
+.app__summary-item {
+  margin-top: 42px;
+  color: var(--text-primary);
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  #{&}__title {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: normal;
+    text-decoration: none;
+    color: var(--text-primary);
+  }
+
+  #{&}__info {
+    font-size: 14px;
+    color: var(--text-secondary);
+    font-style: italic;
+  }
+
+  ul {
+    margin: 18px 0;
+    line-height: 34px;
+    li, li a {
+      font-size: 18px;
+      color: var(--text-secondary);
+    }
+  }
+}
