@@ -1,7 +1,7 @@
 {{- define "header" -}}
 <header class="app__home-header elevation-z4">
   <h1 class="app__home-title">{{ .Site.Title }}</h1>
-  {{- with .Site.Params.links }}
+  {{- with .Site.Params.socialLinks }}
   <div style="margin-top: 16px;">
     {{- range . }}
     <a target="_blank" class="app__home-link" href="{{ .href }}"><i class="fab fa-{{ .icon }}"></i></a>

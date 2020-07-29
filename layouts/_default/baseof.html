@@ -42,7 +42,7 @@
   {{ block "header" . }}
   <header class="app__topbar elevation-z4">
     <a class="app__brand" href="/">{{ .Site.Title }}</a>
-    {{- with .Site.Params.links }}
+    {{- with .Site.Params.socialLinks }}
     <div class="app__topbar-link-list">
       {{- range . }}
       <a target="_blank" class="app__topbar-link" href="{{ .href }}"><i class="fab fa-{{ .icon }}"></i></a>

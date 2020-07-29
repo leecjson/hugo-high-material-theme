@@ -25,7 +25,7 @@ params:
   author: "Your Name"
 
   # 主页或者部分页面图标链接配置，icon必须是在fontawesome中支持的
-  links:
+  socialLinks:
     - { icon: "github", href: "https://github.com" }
 
   # 主页上方显示的第一级入口链接
