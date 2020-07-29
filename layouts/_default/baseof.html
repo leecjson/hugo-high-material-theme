@@ -34,9 +34,9 @@
   {{- end -}}
 
   <link rel="stylesheet"
-    href="{{ absURL (index .Site.Data "asset-manifest" "files" "fontawesome.css") }}">
+    href="{{ relURL (index .Site.Data "asset-manifest" "files" "fontawesome.css") }}">
   <link rel="stylesheet"
-    href="{{ absURL (index .Site.Data "asset-manifest" "files" "main.css") }}">
+    href="{{ relURL (index .Site.Data "asset-manifest" "files" "main.css") }}">
 </head>
 <body>
   {{ block "header" . }}
