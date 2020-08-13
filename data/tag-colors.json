@@ -1062,5 +1062,9 @@
   "ZIL": {
     "color": "#dc75e5",
     "tone": "light"
+  },
+  "ALGORITHM": {
+    "color": "#00004c",
+    "tone": "dark"
   }
 }

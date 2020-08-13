@@ -28,6 +28,8 @@ params:
   socialLinks:
     - { icon: "github", href: "https://github.com" }
 
+  enableKatex: true # 开启数学公式支持
+
   # 主页上方显示的第一级入口链接
   navlinks:
     - { title: "开发", url: "/categories/dev" }
